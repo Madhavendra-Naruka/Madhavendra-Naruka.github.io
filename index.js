@@ -794,7 +794,7 @@ function addLink(logoID, link) {
   });
 }
 addLink("linkedinLogo","https://www.linkedin.com/in/madhvendra-naruka-52b52621a/");
-addLink("githubLogo", "https://github.com/Madhavendra-007");
+addLink("githubLogo", "https://github.com/Madhavendra-Naruka");
 addLink("mailLogo", "mailto:madhvendrasinghnaruka@gmail.com");
 addLink("whatsappLogo", "https://wa.me/9829620291");
 addLink("callLogo", "tel:9829620291");
